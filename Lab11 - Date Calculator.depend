@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510586671 source:g:\programming\lab11 - date calculator\main.cpp
+	<iostream>
+	<stdio.h>
+
